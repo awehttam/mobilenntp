@@ -15,7 +15,7 @@ class MobileNntpApp extends StatelessWidget {
   Widget build(BuildContext context) {
     const seed = Color(0xFF3A6EA5);
     return MaterialApp(
-      title: 'mobilenntp',
+      title: 'Mobile NNTP',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(seedColor: seed),

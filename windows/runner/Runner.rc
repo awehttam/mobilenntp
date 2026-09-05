@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.mobilenntp" "\0"
-            VALUE "FileDescription", "mobilenntp" "\0"
+            VALUE "FileDescription", "Mobile NNTP" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
             VALUE "InternalName", "mobilenntp" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2026 com.mobilenntp. All rights reserved." "\0"
             VALUE "OriginalFilename", "mobilenntp.exe" "\0"
-            VALUE "ProductName", "mobilenntp" "\0"
+            VALUE "ProductName", "Mobile NNTP" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
